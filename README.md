@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 # 下辈子别写代码。 996 太累
+
+# 姐姐扛不住了！
 <!--
 **1amsukhman3ys6ch/1amsukhman3ys6ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
